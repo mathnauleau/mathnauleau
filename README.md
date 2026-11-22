@@ -3,7 +3,7 @@
 I'm a Sr. Product designer genuinely interested in new technologies, user experience, and learning new languages to improve my workflow. A few extra words about me:
 
 - 🇳🇱 I'm from Nantes, FR, currently living in Amsterdam, NL
-- 🔭 I’m currently working on the Design System at [Eneco]([https://www.ah.nl](https://www.eneco.nl))
+- 🔭 I’m currently working on the Design System at [Eneco](https://www.eneco.nl)
 - 🌱 I’m currently learning Python and React
 - 👯 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with improving the codebase of my portfolio
